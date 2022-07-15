@@ -1,6 +1,6 @@
 # Medical_Image_Cell_Identification
 
-![Block Diagram]()
+![Block Diagram](./Images/Architecture_Block.png)
 
 ### Architecture of Multi-Stage Classification of Cells:
 
