@@ -1,5 +1,7 @@
 # Medical_Image_Cell_Identification
 
+![Block Diagram]()
+
 ### Architecture of Multi-Stage Classification of Cells:
 
 #### Stage 1: Template Matching with Non Max Supression
